@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ronaldomachado42&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Langs: Java | Python | Golang | </br> Frame: Spring Boot | Django | Flask </br> OS/SHELL: Linux | Bash</p>S
+<p>Stack: Java, Python, Django, Flask, Spring Boot and Linux</p>
